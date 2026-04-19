@@ -1,6 +1,0 @@
-﻿# Root .dockerignore (if you build from repo root)
-**
-
-# Allow ECS folder only
-!ecs/**
-!ecs/.dockerignore
