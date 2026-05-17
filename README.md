@@ -1,4 +1,4 @@
-﻿# 🌐 Projeto AWS – Integração Backend com Amazon API Gateway | Projeto AWS Filmes 5/1
+﻿# 🌐 Integração Backend com Amazon API Gateway | Projeto AWS Filmes 5/1
 
 ## 📌 Sobre o Projeto
 
